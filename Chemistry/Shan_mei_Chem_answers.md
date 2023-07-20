@@ -14,7 +14,7 @@ ${Na_2O}_{(s)}+2{HCl}_{(aq)}\rightarrow{2{NaCl}_{(aq)}}+{{H_2O}_{(l)}}$
 Neutralisation
 ${K_2CO_3}_{(aq)}+{H_2SO_4}_{(aq)}\rightarrow{{K_2SO_4}_{(aq)}}+{{H_2O}_{(l)}}+{{CO_2}_{(g)}}$
 
-Combustion - This is wrong btw Heptane has 7 carbons, the formula shown is hexane (has 6 carbons, so i just wrote both)
+Combustion - This is wrong btw Heptane has 7 carbons, the formula shown is hexane (has 6 carbons, so i just wrote both), but this is kinda cringe
 (assumed) correct formula:
 ${{C_7H_{16}}_{(l)}}+{11{O_{2}}_{(g)}}\rightarrow{7{CO_{2}}_{(g)}}+{8{H_2O}_{(g)}}$
 
