@@ -1,5 +1,6 @@
 ---
 title: Shan-mei chem
+render_with_liquid: false
 ---
 
 Neutralisation
