@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea653f6a5a5759a2",
+            "id": "0b6973ee1d3337bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Waves_and_Resonance_Notes.md",
+                "file": "Chemistry/Potable_Water.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0b6973ee1d3337bd",
+            "id": "dff9d447a92a49f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Physics/Helpful_Guide_to_using_Logs_in_Nuclear_Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Physics/Helpful_Guide_to_using_Logs_in_Nuclear_Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Physics/Helpful_Guide_to_using_Logs_in_Nuclear_Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Physics/Helpful_Guide_to_using_Logs_in_Nuclear_Physics.md"
               }
             }
           }
@@ -167,25 +167,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b6973ee1d3337bd",
+  "active": "dff9d447a92a49f2",
   "lastOpenFiles": [
+    "Chemistry/Shan_mei_Chem_answers.md",
+    "Chemistry/Potable_Water.md",
+    "Physics/Helpful_Guide_to_using_Logs_in_Nuclear_Physics.md",
+    "Chemistry/Intermolecular_Forces.md",
+    "Literature/I_hate_psychoanalysis_but_that_and_Jekyll_and_Hyde.md",
+    "Physics/Waves_and_Resonance_Notes.md",
+    "Physics/Standard_Model.md",
+    "index.md",
     "CNAME",
     "Physics/Medical_Physics_and_Dosimetry.md",
-    "index.md",
     "Literature/Panel_Discussion_Stuff.md",
-    "Physics/Standard_Model.md",
-    "Physics/Waves_and_Resonance_Notes.md",
     "they.md",
     "Physics/Linear_Motion_Notes.md",
     "many.md",
     "one.md",
     "screw_right_wings.md",
     "Physics/Waves_Evaluation_and_Analysis_Task_Research.md",
-    "Literature/I_hate_psychoanalysis_but_that_and_Jekyll_and_Hyde.md",
     "fren.png",
     "().md",
     "docs/CODE_OF_CONDUCT.md",
-    "Chemistry/Intermolecular_Forces.md",
     "assets/images/body-bg.png",
     "assets/images/highlight-bg.jpg",
     "Chemistry/femtosecond_chance_disp.jpg",
@@ -204,7 +207,6 @@
     "assets",
     "_layouts/default.html",
     "_layouts",
-    "Chemistry",
     "fren.png.md"
   ]
 }
